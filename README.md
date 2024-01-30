@@ -1,6 +1,10 @@
 ### Hi there 
 
-https://youtu.be/k9N7xA1inLY
+#### About Me: 
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/k9N7xA1inLY)
+
+
 
 - currently working on various personal projects, including a speech to text app to help with speech therapy
 
