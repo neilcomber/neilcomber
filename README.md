@@ -1,6 +1,4 @@
-### Hi there 👋
-
-- 🌱 I’m currently learning React & Redux implementation
+### Hi there 
 
 - 🔭 I’m currently working on various personal projects, including a text to speech app to help with speech therapy
 
