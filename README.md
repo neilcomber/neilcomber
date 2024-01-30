@@ -19,7 +19,7 @@
 <br/> 
 
 
-
+Please see my pinned repos below to have a look through some of my favourite projects to build.
 
 I'm currently working on various personal projects andlooking to collaborate on any interesting projects i can be helpful to, particuarly with audio functionality.
 
