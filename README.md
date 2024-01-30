@@ -1,5 +1,7 @@
 ### Hi there 
 
+https://youtu.be/k9N7xA1inLY
+
 - currently working on various personal projects, including a speech to text app to help with speech therapy
 
 - I’m looking to collaborate on any interesting projects i can be helpful to, particuarly with audio functionality.
