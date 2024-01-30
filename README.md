@@ -9,10 +9,14 @@
 
 [![Profile video](https://i.imgur.com/SPR7kIlm.png)](https://youtu.be/k9N7xA1inLY)  
 
+<br/> 
+
 
 #### A walkthrough of my user authorisation project:
 
 [![user auth app walkthrough video](https://i.imgur.com/IGzHM9Fm.png)](https://youtu.be/b-tXme2QObs)  
+
+<br/> 
 
 
 
