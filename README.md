@@ -2,7 +2,7 @@
 
 #### About Me: 
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/k9N7xA1inLY)
+[![Profile video](https://www.youtube.com/watch?v=k9N7xA1inLY)](https://youtu.be/k9N7xA1inLY)
 
 
 
