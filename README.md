@@ -2,7 +2,7 @@
 
 #### About Me: 
 
-[![Profile video](https://www.youtube.com/watch?v=k9N7xA1inLY)](https://youtu.be/k9N7xA1inLY)
+[![Profile video](https://i.imgur.com/SPR7kIl.png)](https://youtu.be/k9N7xA1inLY)
 
 
 
