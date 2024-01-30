@@ -1,12 +1,16 @@
 ### Hi there 
 
-#### About Me: 
+#### A little about me: 
 
 [![Profile video](https://i.imgur.com/SPR7kIlm.png)](https://youtu.be/k9N7xA1inLY)
 
+#### A walkthrough of my user authorisation project:
+
+[![user auth app walkthrough video](https://i.imgur.com/IGzHM9Fm.png)](https://youtu.be/b-tXme2QObs)
 
 
-- currently working on various personal projects, including a speech to text app to help with speech therapy
+
+- currently working on various personal projects.
 
 - I’m looking to collaborate on any interesting projects i can be helpful to, particuarly with audio functionality.
 
