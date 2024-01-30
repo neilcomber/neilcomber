@@ -7,7 +7,7 @@
 
 ### A little about me: 
 
-[![Profile video](https://i.imgur.com/SPR7kIlm.png)](https://youtu.be/k9N7xA1inLY)  
+[![Profile video](https://i.imgur.com/ARSem5hm.png)](https://youtu.be/k9N7xA1inLY)  
 
 ### A walkthrough of my user authorisation project:
 
