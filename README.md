@@ -19,11 +19,11 @@
 <br/> 
 
 
-Please see my pinned repos below to have a look through some of my favourite projects to build.
+- Please see my pinned repos below to have a look through some of my favourite projects to build.
 
-I'm currently working on various personal projects andlooking to collaborate on any interesting projects i can be helpful to, particuarly with audio functionality.
+- I'm currently working on various personal projects andlooking to collaborate on any interesting projects i can be helpful to, particuarly with audio functionality.
 
-You can recah me at NeilComber@gmail.com
+- You can reach me at NeilComber@gmail.com
  
 <!--
 **neilcomber/neilcomber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
