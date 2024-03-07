@@ -16,9 +16,7 @@
 
 - You can reach me at NeilComber@gmail.com
 
- ### A walkthrough of my user authorisation project:
 
-[![user auth app walkthrough video](https://i.imgur.com/IGzHM9Fm.png)](https://youtu.be/b-tXme2QObs)  
 
 <br/> 
 
