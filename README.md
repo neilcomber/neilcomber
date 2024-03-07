@@ -10,7 +10,7 @@
 
 
 [![Profile video](https://i.imgur.com/ARSem5hm.png)](https://youtu.be/k9N7xA1inLY)  
-- Please Check out my [Campground Finder Project](https://github.com/neilcomber/CampgroundFinder)
+- Please Check out my [Campground Finder App](https://github.com/neilcomber/CampgroundFinder) utilising restful crud implimentation, my [Auth using GraphQL](https://github.com/neilcomber/authorisation-in-graphql) project built with React & GraphQL, and my [Javascript Codepen project](https://github.com/neilcomber/javascript-notebook) built with React, Redux, Typescript & Node.
 
 - I'm currently working on various personal projects andlooking to collaborate on any interesting projects i can be helpful to, particuarly with audio functionality.
 
