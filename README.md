@@ -6,7 +6,9 @@
 
 ### A little about me: 
 
-[![Profile video](https://i.imgur.com/ARSem5hm.png)](https://youtu.be/k9N7xA1inLY)  
+[![Profile video](https://imgur.com/a/jcf3Is4)](https://youtu.be/cQnpg28Pq1c)
+
+
 
 - Please see my pinned repos below to have a look through some of my favourite project builds.
 
