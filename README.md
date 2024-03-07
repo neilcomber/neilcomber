@@ -10,7 +10,7 @@
 
 
 [![Profile video](https://i.imgur.com/ARSem5hm.png)](https://youtu.be/k9N7xA1inLY)  
-- Please see my pinned repos below to have a look through some of my favourite project builds.
+- Please Check out my [Campground Finder Project](https://github.com/neilcomber/CampgroundFinder)
 
 - I'm currently working on various personal projects andlooking to collaborate on any interesting projects i can be helpful to, particuarly with audio functionality.
 
