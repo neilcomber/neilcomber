@@ -1,6 +1,6 @@
 ## Neil Comber
 
-### Software Developer  & Record Producer
+### Software Developer  & Recording & Mix Engineer.
 
 ## Currently working with Javascript, React, Redux, Typescript, Node, MongoDB, Express, Bootstrap & Tailwind, HTML & CSS, EJS
 
